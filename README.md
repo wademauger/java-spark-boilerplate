@@ -10,4 +10,4 @@ a boilerplate to get a spark server up and running in a jiffy
 
 ## The project structure
 
-(tree)[./files.png]
+![tree](./files.png)
